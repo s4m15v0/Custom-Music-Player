@@ -1,14 +1,14 @@
 const songs = [
-    "a_sky_full_of_stars.mp3",
-    "amorsho.mp3",
-    "bhashomaan.mp3",
-    "blackfieldpain.mp3",
-    "brothers_in_arms.mp3",
-    "hotel_california.mp3",
-    "layla.mp3",
-    "like_a_stone.mp3",
-    "stairway_to_heaven.mp3",
-    "waterflower.mp3"
+    "A_Sky_Full_of_Stars.mp3",
+    "Amorsho.mp3",
+    "Bhashomaan.mp3",
+    "Pain.mp3",
+    "Brothers_in_Arms.mp3",
+    "Hotel_California.mp3",
+    "Layla.mp3",
+    "Like_a_Stone.mp3",
+    "Stairway_To_Heaven.mp3",
+    "Kayleigh.mp3"
   ]
   
   const createSongList = ()=> {
