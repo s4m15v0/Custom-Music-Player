@@ -9,9 +9,8 @@ const songs = [
     "Like_a_Stone.mp3",
     "Stairway_To_Heaven.mp3",
     "Kayleigh.mp3"
-  ]
-  
-  const createSongList = ()=> {
+    
+  ]const createSongList = ()=> {
     const list = document.createElement('ol')
   
     for(let i = 0; i<songs.length; i++){
